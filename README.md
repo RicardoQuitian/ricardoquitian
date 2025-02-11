@@ -3,7 +3,7 @@
 
 - 🔭 **Disponibilidad para trabajar en desarrollo web.**
 
-- 🌱 **Siempre con actitud para aprender temas nuevos**
+- 🌱 **Siempre con actitud para aprender temas nuevos.**
 
 - 👯 **Estoy buscando colaborar en proyectos de código abierto.**
 
