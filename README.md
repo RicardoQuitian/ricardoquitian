@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ricardo Alexander Quitian Leon</h1>
-<h3 align="center">A full stack developer, passionate about technology and web development.</h3>
+<h1 align="center">Hola 👋, soy Ricardo Alexander Quitian Leon</h1>
+<h3 align="center">Un desarrollador full stack, apasionado por la tecnología y el desarrollo web.</h3>
 
-- 🔭 **Availability to work in web development.**
+- 🔭 **Disponibilidad para trabajar en desarrollo web.**
 
-- 🌱 **I’m currently learning.**
+- 🌱 **Siempre con actitud para aprender temas nuevos**
 
-- 👯 **I’m looking to collaborate on open source projects.**
+- 👯 **Estoy buscando colaborar en proyectos de código abierto.**
 
-- 💬 **Ask me about everything!**
+- 💬 **¡Pregúntame sobre todo!**
 
 - 📫 **Leonquitian2000gmail.com**
 
