@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ricardo Alexander Quitian Leon</h1>
-<h3 align="center">Un desarrollador full stack, apasionado por la tecnología y el desarrollo web.</h3>
+<h3 align="center">Un desarrollador apasionado por la tecnología</h3>
 
 - 🔭 **Disponibilidad para trabajar en desarrollo web.**
 - 🌱 **Siempre con actitud para aprender temas nuevos.**
